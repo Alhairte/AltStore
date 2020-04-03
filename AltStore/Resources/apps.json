@@ -1,7 +1,7 @@
 {
   "name": "AltStore",
-  "identifier": "com.rileytestut.AltStore",
-  "sourceURL": "https://cdn.altstore.io/file/altstore/apps.json",
+  "identifier": "com.inj.AltStore",
+  "sourceURL": "https://cdn.dlninja.com/apps.json",
   "apps": [
     {
       "name": "AltStore",

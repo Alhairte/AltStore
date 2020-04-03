@@ -15,7 +15,7 @@ extension Source
     #if STAGING
     static let altStoreSourceURL = URL(string: "https://f000.backblazeb2.com/file/altstore-staging/apps-staging.json")!
     #else
-    static let altStoreSourceURL = URL(string: "https://cdn.altstore.io/file/altstore/apps.json")!
+    static let altStoreSourceURL = URL(string: "https://cdn.dlninja.com/apps.json")!
     #endif
 }
 
